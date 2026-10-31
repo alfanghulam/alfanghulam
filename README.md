@@ -1,26 +1,25 @@
 
 <div align="center">
 
-<!-- HERO SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:071A35,35:0755A5,70:087CEB,100:38BDF8&text=ALFAN%20HAYDAR&fontSize= sixty&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%7C%20TECH%20EXPLORER&descSize=17&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:071A35,35:0755A5,70:087CEB,100:38BDF8&text=ALFAN%20HAYDAR&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=KREATIVITAS%20%7C%20TEKNOLOGI%20%7C%20INOVASI&descSize=17&descAlignY=57&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Alfan+Haydar+%F0%9F%91%8B;Turning+Ideas+Into+Digital+Experiences;Web+Development+%7C+UI%2FUX+%7C+AI;Always+Learning.+Always+Creating." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Halo%2C+selamat+datang+di+GitHub+saya!;Mengubah+Ide+Menjadi+Karya+Digital;Web+Development+%7C+UI%2FUX+%7C+AI;Terus+Belajar.+Terus+Berkarya." />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/alfanghulam">
+<img src="https://img.shields.io/badge/GitHub-Ikuti-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Terhubung-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Say_Hello-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:EMAIL_KAMU">
+<img src="https://img.shields.io/badge/Email-Hubungi-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=087CEB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=KUNJUNGAN+PROFIL&color=087CEB&style=flat-square" />
 
 </div>
 
@@ -28,44 +27,42 @@
 
 <div align="center">
 
-## ✦ WHO AM I?
+## ✦ TENTANG SAYA
 
-**A developer in progress, a creator by passion.**
+**Belajar, berkarya, dan menciptakan sesuatu melalui teknologi.**
 
 </div>
 
-I'm **Alfan Ghulam Haydar**, an Informatics Engineering student at **Universitas Negeri Yogyakarta (UNY)**, Indonesia.
+Halo! Saya **Alfan Ghulam Haydar**, mahasiswa Pendidikan Teknik Informatika di **Universitas Negeri Yogyakarta (UNY)**.
 
-I enjoy exploring the intersection of technology, creativity, and problem-solving. From building web applications to experimenting with artificial intelligence, I'm passionate about turning ideas into meaningful digital experiences.
+Saya memiliki ketertarikan pada dunia teknologi, khususnya pengembangan web, desain antarmuka, dan kecerdasan buatan. Saya senang mengeksplorasi teknologi baru, mencoba berbagai ide, dan mengembangkan aplikasi melalui proyek-proyek yang saya kerjakan.
 
-I don't just want to write code. I want to understand how things work, build solutions, and keep improving with every project.
-
-<br/>
+Bagi saya, setiap proyek bukan hanya tentang menghasilkan aplikasi, tetapi juga menjadi kesempatan untuk belajar, mengembangkan kemampuan, dan menemukan solusi dari suatu permasalahan.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 About Me
+### 👨‍💻 Profil Singkat
 
-- 🎓 Informatics Engineering Student
-- 🌍 Based in Indonesia
-- 💻 Web Development Enthusiast
-- 🎨 UI/UX Design Explorer
-- 🤖 AI & Machine Learning Enthusiast
-- 🚀 Learning by Building Projects
+- 🎓 Mahasiswa Pendidikan Teknik Informatika
+- 🌍 Indonesia
+- 💻 Tertarik pada Web Development
+- 🎨 Menjelajahi UI/UX Design
+- 🤖 Tertarik pada Artificial Intelligence
+- 🚀 Senang belajar melalui proyek
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Current Focus
+### 🎯 Fokus Saat Ini
 
-- Developing modern web applications
-- Improving frontend & backend skills
-- Exploring Laravel and PHP
-- Learning AI and Computer Vision
-- Creating better user experiences
-- Building real-world projects
+- Mengembangkan aplikasi web modern
+- Meningkatkan kemampuan frontend dan backend
+- Mendalami PHP dan Laravel
+- Mempelajari AI dan Computer Vision
+- Membuat antarmuka yang menarik
+- Mengembangkan proyek nyata
 
 </td>
 </tr>
@@ -73,23 +70,23 @@ I don't just want to write code. I want to understand how things work, build sol
 
 ---
 
-## ✦ MY TECH UNIVERSE
+## ✦ TEKNOLOGI YANG SAYA GUNAKAN
 
 <div align="center">
 
-### `01` — Programming Languages
+### `01` — Bahasa Pemrograman
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" />
 
 <br/><br/>
 
-### `02` — Frameworks & Database
+### `02` — Framework dan Database
 
 <img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,tensorflow,opencv&theme=dark" />
 
 <br/><br/>
 
-### `03` — Tools & Creative Workspace
+### `03` — Tools dan Lingkungan Pengembangan
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux&theme=dark" />
 
@@ -97,9 +94,9 @@ I don't just want to write code. I want to understand how things work, build sol
 
 ---
 
-## ✦ FEATURED PROJECTS
+## ✦ PROYEK PILIHAN
 
-*A collection of things I've built, explored, and learned from.*
+Berikut beberapa proyek yang pernah saya kembangkan dan eksplorasi.
 
 <table>
 <tr>
@@ -107,38 +104,38 @@ I don't just want to write code. I want to understand how things work, build sol
 
 ### 🌐 Personal Portfolio CMS
 
-A personal portfolio website with an administration panel for managing projects, certificates, and CV files.
+Website portfolio pribadi yang dilengkapi halaman administrator untuk mengelola proyek, sertifikat, dan file CV.
 
-**Built with:** PHP · MySQL · CSS · JavaScript
+**Teknologi:** PHP · MySQL · CSS · JavaScript
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Facial Emotion Detection
+### 🤖 Deteksi Emosi Wajah
 
-An AI-based application that recognizes facial expressions through computer vision and machine learning.
+Aplikasi berbasis kecerdasan buatan untuk mengenali ekspresi emosi wajah menggunakan teknologi computer vision dan machine learning.
 
-**Built with:** Python · TensorFlow · OpenCV
+**Teknologi:** Python · TensorFlow · OpenCV
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 SPK Minimarket
+### 📊 Sistem Pendukung Keputusan Minimarket
 
-A decision support system for evaluating and comparing potential minimarket locations based on weighted criteria.
+Aplikasi untuk membantu menentukan lokasi minimarket berdasarkan sejumlah kriteria dan perhitungan bobot.
 
-**Built with:** Laravel · PHP · MySQL
+**Teknologi:** Laravel · PHP · MySQL
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ E-Commerce Application
+### 🛍️ Aplikasi E-Commerce
 
-A Laravel-based e-commerce project focused on developing a modern shopping experience and application interface.
+Proyek pengembangan aplikasi toko online menggunakan Laravel dengan fokus pada tampilan dan pengalaman pengguna.
 
-**Built with:** Laravel · PHP · MySQL · CSS
+**Teknologi:** Laravel · PHP · MySQL · CSS
 
 </td>
 </tr>
@@ -147,14 +144,14 @@ A Laravel-based e-commerce project focused on developing a modern shopping exper
 <div align="center">
 
 <a href="https://github.com/USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-087CEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LIHAT_SEMUA_PROYEK-087CEB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## ✦ GITHUB ANALYTICS
+## ✦ STATISTIK GITHUB
 
 <div align="center">
 
@@ -170,50 +167,50 @@ A Laravel-based e-commerce project focused on developing a modern shopping exper
 
 ---
 
-## ✦ CONTRIBUTION ACTIVITY
+## ✦ AKTIVITAS KONTRIBUSI
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=071A35&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=071A35&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=PERJALANAN%20KODING%20SAYA" />
 
 </div>
 
 ---
 
-## ✦ BEYOND THE CODE
+## ✦ HAL YANG SEDANG SAYA KEMBANGKAN
 
-<div align="center">
-
-| AREA | WHAT I'M EXPLORING |
+| Bidang | Fokus Pengembangan |
 |:---|:---|
-| 🌐 Development | Building functional digital products |
-| 🎨 Creativity | Designing clean and intuitive interfaces |
-| 🧠 Artificial Intelligence | Exploring intelligent applications |
-| 🔬 Experimentation | Learning through practical projects |
-| 📚 Growth | Improving one step at a time |
-
-</div>
+| 🌐 Web Development | Membangun aplikasi web yang fungsional |
+| 🎨 UI/UX Design | Merancang tampilan yang menarik dan mudah digunakan |
+| 🤖 Artificial Intelligence | Mengeksplorasi penerapan kecerdasan buatan |
+| 🔬 Eksperimen Teknologi | Belajar melalui berbagai proyek |
+| 📚 Pengembangan Diri | Terus meningkatkan kemampuan dan pengetahuan |
 
 ---
 
 <div align="center">
 
-## ✦ LET'S CONNECT
+## ✦ MARI TERHUBUNG!
 
-**Have an interesting idea or project? Let's make something meaningful.**
+Punya ide menarik atau ingin berkolaborasi dalam sebuah proyek?
 
-<a href="https://github.com/USERNAME">
+**Mari belajar, berkembang, dan menciptakan sesuatu bersama.**
+
+<br/>
+
+<a href="https://github.com/alfanghulam">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:EMAIL_KAMU">
 <img src="https://img.shields.io/badge/Email-087CEB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### `CODE` · `CREATE` · `INNOVATE`
+### `BERKARYA` · `BELAJAR` · `BERINOVASI`
 
-*"The best way to predict the future is to build it."*
+*"Masa depan tidak hanya untuk diprediksi, tetapi juga untuk diciptakan."*
 
 <br/>
 
