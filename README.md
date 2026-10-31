@@ -1,219 +1,108 @@
 
+<!-- PROFILE HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:071A35,35:0755A5,70:087CEB,100:38BDF8&text=ALFAN%20HAYDAR&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=KREATIVITAS%20%7C%20TEKNOLOGI%20%7C%20INOVASI&descSize=17&descAlignY=57&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0077FF&height=220&section=header&text=Alfan%20Haydar&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Digital%20Experiences&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Halo%2C+selamat+datang+di+GitHub+saya!;Mengubah+Ide+Menjadi+Karya+Digital;Web+Development+%7C+UI%2FUX+%7C+AI;Terus+Belajar.+Terus+Berkarya." />
-
-<br/><br/>
-
-<a href="https://github.com/alfanghulam">
-<img src="https://img.shields.io/badge/GitHub-Ikuti-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Terhubung-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:EMAIL_KAMU">
-<img src="https://img.shields.io/badge/Email-Hubungi-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Developer+in+Progress;UI%2FUX+Design+Enthusiast;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=KUNJUNGAN+PROFIL&color=087CEB&style=flat-square" />
+<p>
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:EMAIL_KAMU">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## ✦ TENTANG SAYA
+```yaml
+name: Alfan Ghulam Haydar
+role: Informatics Engineering Student
+university: Universitas Negeri Yogyakarta
+interests:
+  - Web Development
+  - UI/UX Design
+  - Artificial Intelligence
+  - Machine Learning
+currently: Learning, Building, and Improving
+motto: "Turning ideas into meaningful digital experiences."
+```
 
-**Belajar, berkarya, dan menciptakan sesuatu melalui teknologi.**
+I'm an Informatics Engineering student who enjoys exploring technology and building useful digital experiences. I focus on developing web applications, designing intuitive interfaces, and learning how AI can solve real-world problems.
 
-</div>
-
-Halo! Saya **Alfan Ghulam Haydar**, mahasiswa Pendidikan Teknik Informatika di **Universitas Negeri Yogyakarta (UNY)**.
-
-Saya memiliki ketertarikan pada dunia teknologi, khususnya pengembangan web, desain antarmuka, dan kecerdasan buatan. Saya senang mengeksplorasi teknologi baru, mencoba berbagai ide, dan mengembangkan aplikasi melalui proyek-proyek yang saya kerjakan.
-
-Bagi saya, setiap proyek bukan hanya tentang menghasilkan aplikasi, tetapi juga menjadi kesempatan untuk belajar, mengembangkan kemampuan, dan menemukan solusi dari suatu permasalahan.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Profil Singkat
-
-- 🎓 Mahasiswa Pendidikan Teknik Informatika
-- 🌍 Indonesia
-- 💻 Tertarik pada Web Development
-- 🎨 Menjelajahi UI/UX Design
-- 🤖 Tertarik pada Artificial Intelligence
-- 🚀 Senang belajar melalui proyek
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Fokus Saat Ini
-
-- Mengembangkan aplikasi web modern
-- Meningkatkan kemampuan frontend dan backend
-- Mendalami PHP dan Laravel
-- Mempelajari AI dan Computer Vision
-- Membuat antarmuka yang menarik
-- Mengembangkan proyek nyata
-
-</td>
-</tr>
-</table>
+I believe every project is an opportunity to learn something new, improve my skills, and create something better.
 
 ---
 
-## ✦ TEKNOLOGI YANG SAYA GUNAKAN
+## ⚡ Tech Stack
 
 <div align="center">
 
-### `01` — Bahasa Pemrograman
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" />
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python" />
 
-<br/><br/>
-
-### `02` — Framework dan Database
-
-<img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,tensorflow,opencv&theme=dark" />
-
-<br/><br/>
-
-### `03` — Tools dan Lingkungan Pengembangan
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux&theme=dark" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
 ---
 
-## ✦ PROYEK PILIHAN
+## 🚀 Featured Projects
 
-Berikut beberapa proyek yang pernah saya kembangkan dan eksplorasi.
+> A selection of projects I'm building and learning from.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🌐 **Personal Portfolio** — A portfolio website with project management, certificate uploads, and CV downloads.
+- 🧠 **Facial Emotion Detection** — An AI-based application for recognizing facial emotions using computer vision.
+- 📊 **Decision Support System** — A decision-making application for comparing alternatives using weighted criteria.
+- 🛒 **Web Applications** — Exploring full-stack development with PHP, Laravel, and MySQL.
 
-### 🌐 Personal Portfolio CMS
+---
 
-Website portfolio pribadi yang dilengkapi halaman administrator untuk mengelola proyek, sertifikat, dan file CV.
-
-**Teknologi:** PHP · MySQL · CSS · JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Deteksi Emosi Wajah
-
-Aplikasi berbasis kecerdasan buatan untuk mengenali ekspresi emosi wajah menggunakan teknologi computer vision dan machine learning.
-
-**Teknologi:** Python · TensorFlow · OpenCV
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sistem Pendukung Keputusan Minimarket
-
-Aplikasi untuk membantu menentukan lokasi minimarket berdasarkan sejumlah kriteria dan perhitungan bobot.
-
-**Teknologi:** Laravel · PHP · MySQL
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Aplikasi E-Commerce
-
-Proyek pengembangan aplikasi toko online menggunakan Laravel dengan fokus pada tampilan dan pengalaman pengguna.
-
-**Teknologi:** Laravel · PHP · MySQL · CSS
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/LIHAT_SEMUA_PROYEK-087CEB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## ✦ STATISTIK GITHUB
+## 🎯 Current Goals
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=071A35&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=071A35&title_color=38BDF8&text_color=E2E8F0" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=USERNAME&theme=transparent&hide_border=true&background=071A35&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## ✦ AKTIVITAS KONTRIBUSI
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=071A35&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=PERJALANAN%20KODING%20SAYA" />
-
-</div>
-
----
-
-## ✦ HAL YANG SEDANG SAYA KEMBANGKAN
-
-| Bidang | Fokus Pengembangan |
-|:---|:---|
-| 🌐 Web Development | Membangun aplikasi web yang fungsional |
-| 🎨 UI/UX Design | Merancang tampilan yang menarik dan mudah digunakan |
-| 🤖 Artificial Intelligence | Mengeksplorasi penerapan kecerdasan buatan |
-| 🔬 Eksperimen Teknologi | Belajar melalui berbagai proyek |
-| 📚 Pengembangan Diri | Terus meningkatkan kemampuan dan pengetahuan |
+- Build more real-world web applications.
+- Improve my frontend and backend development skills.
+- Explore AI and machine learning projects.
+- Create clean, responsive, and user-friendly interfaces.
+- Keep learning and contribute to the developer community.
 
 ---
 
 <div align="center">
 
-## ✦ MARI TERHUBUNG!
+### 💬 Let's Build Something Great!
 
-Punya ide menarik atau ingin berkolaborasi dalam sebuah proyek?
+*Code. Learn. Create. Repeat.*
 
-**Mari belajar, berkembang, dan menciptakan sesuatu bersama.**
-
-<br/>
-
-<a href="https://github.com/alfanghulam">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:EMAIL_KAMU">
-<img src="https://img.shields.io/badge/Email-087CEB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### `BERKARYA` · `BELAJAR` · `BERINOVASI`
-
-*"Masa depan tidak hanya untuk diprediksi, tetapi juga untuk diciptakan."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:087CEB,100:071A35&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
